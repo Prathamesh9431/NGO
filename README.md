@@ -65,7 +65,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-Coming Soon
+Nayepankh-ngo.netlify.app
 
 ## 👨‍💻 Author
 
